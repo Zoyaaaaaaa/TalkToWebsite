@@ -59,10 +59,7 @@ Get informative feedback if something goes wrong.
 ## 🎨 User Interface  
 
 ### 💻 Main Interface  
-![Main Interface](https://via.placeholder.com/800x400?text=Talk+to+Website+Interface)  
-
-### 🗨️ Example Chat  
-![Example Chat](https://via.placeholder.com/800x400?text=Chat+Interaction)  
+https://github.com/user-attachments/assets/1356ace7-cf0a-4fc6-b6da-f3bb6ee56700
 
 ---
 
