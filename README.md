@@ -29,6 +29,14 @@ Get informative feedback if something goes wrong.
 
 ---
 
+
+## 🎨 User Interface  
+
+### 💻 Main Interface  
+https://github.com/user-attachments/assets/1356ace7-cf0a-4fc6-b6da-f3bb6ee56700
+
+---
+
 ## 🌟 How It Works  
 
 1. **Start the Conversation**  
@@ -54,12 +62,6 @@ Get informative feedback if something goes wrong.
 - **React-Markdown** 📝: Displaying markdown content seamlessly.  
 - **Tailwind CSS** 🎨: Crafting a beautiful, responsive design.  
 
----
-
-## 🎨 User Interface  
-
-### 💻 Main Interface  
-https://github.com/user-attachments/assets/1356ace7-cf0a-4fc6-b6da-f3bb6ee56700
 
 ---
 
